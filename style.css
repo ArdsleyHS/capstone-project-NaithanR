@@ -34,4 +34,9 @@ p {
   text-align: left;
   font-family: monospace;
   font-style: italic;
+  font-color: white;
+}
+
+body {
+  background-color: #242526;
 }

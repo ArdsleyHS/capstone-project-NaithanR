@@ -2,6 +2,7 @@ p {
   color: #6ac5fe;
   font-size: large;
   text-align: left;
+  font-family: monospace;
   font-style: italic;
 }
 
@@ -9,6 +10,7 @@ h1 {
   color: #6ac5fe;
   font-size: large;
   text-align: left;
+  font-family: monospace;
   font-style: italic;
 }
 

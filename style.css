@@ -41,3 +41,11 @@ p {
 body {
   background-color: #242526;
 }
+
+h1 {
+  background-color: #242526;
+  color: white;
+  text-align: left;
+  font-family: monospace;
+  font-weight: bold;
+}

@@ -1,36 +1,27 @@
-div {
-  color: #6ac5fe;
-  font-size: large;
-  text-align: left;
-  font-family: monospace;
-  font-style: italic;
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #f5fbff;
 }
 
-h1 {
-  font-size: large;
-  text-align: left;
-  font-family: monospace;
-  font-weight: bold;
+
+
+.banner {
+    background-image: url("https://data.whicdn.com/images/198167845/original.png");
+    color: #EEE;
 }
+
+
 
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 50%;
+    border: 6px solid #9E1A1A;
     height: 175px;
-    }
-
-.banner {
-    background-image: url("https://cdna.artstation.com/p/assets/images/images/034/375/954/large/ahmed-samier-naruto-banner.jpg?1612144068");
 }
 
-hr {
-  color: white;
-}
-
-body {
-  font-size: large;
-  text-align: left;
-  font-family: monospace;
-  font-style: italic;
+ul {
+  list-style-type: square;
 }

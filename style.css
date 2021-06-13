@@ -1,8 +1,8 @@
-    body {
-      padding-top: 50px;
-      padding-bottom: 20px;
-      background-color: #242526;
-      color: white;
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #242526;
+    color: white;
     }
 
     .banner {
@@ -14,12 +14,20 @@ p {
   font-size: large;
   align-content: flex-end;
   text-align: left;
+  font-family: sans-serif;
 }
 
-    img {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
+h1 {
+  color: white;
+  font-size: large;
+  align-content: flex-end;
+  text-align: left;
+  font-family: sans-serif;
+}
 
-        height: 175px;
+img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      height: 175px;
     }

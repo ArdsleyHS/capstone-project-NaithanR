@@ -28,3 +28,10 @@ img {
 hr {
   color: white;
 }
+
+p {
+  font-size: large;
+  text-align: left;
+  font-family: monospace;
+  font-style: italic;
+}

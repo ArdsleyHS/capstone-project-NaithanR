@@ -34,8 +34,8 @@ p {
   text-align: left;
   font-family: monospace;
   font-style: italic;
-  font-color: white;
   background-color: #242526;
+  color: white;
 }
 
 body {

@@ -11,7 +11,9 @@
 
 p {
   color: white;
+  font-size: large;
   align-content: flex-end;
+  text-align: left;
 }
 
     img {

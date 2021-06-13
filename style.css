@@ -6,12 +6,11 @@ div {
   font-style: italic;
 }
 
-h2 {
-  color: #6ac5fe;
+h1 {
   font-size: large;
   text-align: left;
   font-family: monospace;
-  font-style: italic;
+  font-weight: bold;
 }
 
 img {
@@ -29,23 +28,9 @@ hr {
   color: white;
 }
 
-p {
+body {
   font-size: large;
   text-align: left;
   font-family: monospace;
   font-style: italic;
-  background-color: #242526;
-  color: white;
-}
-
-body {
-  background-color: #242526;
-}
-
-h1 {
-  background-color: #242526;
-  color: white;
-  text-align: left;
-  font-family: monospace;
-  font-weight: bold;
 }
